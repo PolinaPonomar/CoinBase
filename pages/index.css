@@ -12,6 +12,7 @@
 @import url('../blocks/header/__sell-button-icon/header__sell-button-icon.css');
 
 @import url('../blocks/button/button.css');
+@import url('../blocks/button/_inversion/button_inversion.css');
 @import url('../blocks/button/__inversion-text/button__inversion-text.css');
 
 @import url('../blocks/content/content.css');
@@ -22,3 +23,12 @@
 @import url('../blocks/promo/__title/_accent/promo__title_accent.css');
 @import url('../blocks/promo/__subtitle/promo__subtitle.css');
 @import url('../blocks/promo/__image/promo__image.css');
+
+@import url('../blocks/about/about.css');
+@import url('../blocks/about/__image/about__image.css');
+@import url('../blocks/about/__text-warpper/about__text-warpper.css');
+@import url('../blocks/about/__title/about__title.css');
+@import url('../blocks/about/__text/about__text.css');
+
+@import url('../blocks/conversion/conversion.css');
+

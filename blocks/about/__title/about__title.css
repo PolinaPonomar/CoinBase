@@ -1,0 +1,25 @@
+.about__title {
+    margin: 0;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 65px;
+    background: linear-gradient(178.18deg, #FD749B 1.44%, #281AC8 158.3%);;
+    /* обрезаем фон по контуру букв */
+    background-clip: text;
+    -webkit-background-clip: text;
+    /* делаем заголовок прозрачным, чтобы был виден цветной фон */
+    color: transparent;
+    position: relative;
+}
+
+.about__title::after{
+    width: 50px;
+    height: 7px;
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: -5px;
+    left: 4px;
+    border-radius: 99rem;
+    background-color: #fc749a;
+}

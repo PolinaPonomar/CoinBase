@@ -2,10 +2,9 @@
     padding: 17px 0;
     border: 0;
     width: 157px;
-    background: #FFFFFF;
-    /* background: linear-gradient(178.18deg, #FD749B -13.56%, #281AC8 158.3%); */
+    background: linear-gradient(178.18deg, #FD749B -13.56%, #281AC8 158.3%);
     border-radius: 100px;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 14px;
     line-height: 21px;
     color: #FFFFFF;
